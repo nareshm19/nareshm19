@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @ nareshm
-- 👀 I’m interested in  
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @ naresh- m
+- 👀 I’m interested in .... New Technologies 
+- 🌱 I’m currently learning ....AWS
+- 💞️ I’m looking to collaborate on ....Open source
+- 📫 How to reach me ...Github
 
 <!---
 nareshm19/nareshm19 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
